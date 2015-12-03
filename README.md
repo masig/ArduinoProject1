@@ -1,4 +1,2 @@
 # ArduinoProjectUno
-The OG Squad, AKA
-Alessio Cusmano, Gabriel Masi & Willem Dugas join forces to create the most epic Arduino project in the history of Arduino;
-reprogramming the projector.
+As first timers in the Arduino coding world, the "OG Squad" will attempt to remake the code for our new wing rooms' projector. As we become more familiar with the language of C, we will move on to attack larger and more complicated projects, such as identify the temperature of a classroom and display it on a four digital tube. Once that is done, we will also attack the detection and display of the humidity in a classroom, either on the same or a different four digital tube as the latter.
