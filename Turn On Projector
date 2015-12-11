@@ -1,7 +1,4 @@
-`/*`
-`Adafruit Arduino - Lesson 6. Inputs`
-`*/`
-
+Adafruit Arduino - Lesson 6. Inputs
 
 `int ledPin = 5; /*Pin 5 is linked to the ledPin*/`
 
