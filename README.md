@@ -6,4 +6,4 @@ As first timers in the Arduino coding world, the "OG Squad" will recode our new 
 
 PROJECT #2 - LCD PANEL
 
-Further, attempting to work the LCD panel in order to join the various projects.
+Further, attempting to work the LCD panel in order to join the various projects. The LCD panel will be controlled by joystick.
