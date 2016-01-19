@@ -6,4 +6,4 @@ As first timers in the Arduino coding world, the "OG Squad" will recode our new 
 
 PROJECT #2 - LCD PANEL
 
-Further, enabling an LCD panel to display personalized text. (as written in the code).
+Further, enabling an LCD panel to display personalized text (as written in the code).
