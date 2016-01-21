@@ -8,11 +8,9 @@
 #include <LiquidCrystal_SR3W.h>
 
 // Backpack Interface labelled "A0 A1 A2" at lower right.
- //..and
- //Backpack Interface labelled "YwRobot Arduino LCM1602 IIC V1"
+//Backpack Interface labelled "YwRobot Arduino LCM1602 IIC V1"
  
  //MOST use address 0x27, a FEW use 0x3F
- //terry@yourduino.com */
 
 /*-----( Import needed libraries )-----*/
 #include <Wire.h>  // Comes with Arduino IDE
