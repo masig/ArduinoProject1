@@ -1,6 +1,5 @@
 /*PROJECTOR: ON/OFF ONE BUTTON
 
-/*Taken from http://danthompsonsblog.blogspot.ca/2011/12/arduino-push-button-onoff-example.html
 /* Debounce
 
 Each time the input pin goes from LOW to HIGH (e.g. because of a push-button press), the output pin is toggled from LOW to HIGH or HIGH to LOW. There's a minimum delay between toggles to debounce the circuit (i.e. to ignore noise).
@@ -72,3 +71,5 @@ digitalWrite(ProjectorPin, ProjectorState);
 // save the reading. Next time through the loop, 
 // it'll be the lastButtonState: 
 lastProjectorButtonState = reading; }
+
+/*Taken from http://danthompsonsblog.blogspot.ca/2011/12/arduino-push-button-onoff-example.html
